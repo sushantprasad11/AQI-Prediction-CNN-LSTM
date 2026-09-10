@@ -7,3 +7,5 @@ requests
 python-dotenv
 pyyaml
 joblib
+scipy
+flask
